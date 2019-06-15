@@ -16,7 +16,7 @@ const RouterComponent = () => {
         
       
         {/* user authentication */}
-        <Scene key="auth">
+        {/* <Scene key="auth">
           <Scene
             key="login"
             component={LoginForm}
@@ -31,7 +31,7 @@ const RouterComponent = () => {
             hideNavBar={true}
             
           />
-        </Scene>
+        </Scene> */}
             
         {/* View */}
         <Scene key="main">
