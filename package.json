@@ -11,7 +11,7 @@
     "lodash": "^4.17.11",
     "native-base": "^2.12.1",
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-document-picker": "^2.3.0",
     "react-native-router-flux": "^4.0.6",
     "react-native-webview-android-file-upload": "git+https://github.com/andreipfeiffer/react-native-webview-android-file-upload.git",
